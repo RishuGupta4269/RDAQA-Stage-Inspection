@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RDAQA_Inspection_System", "..\..\WebSites\RDAQA_Inspection_System\", "{4247CCC6-7366-4347-A485-65C79342E5EA}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/RDAQA_Inspection_System"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\RDAQA_Inspection_System\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\RDAQA_Inspection_System\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/RDAQA_Inspection_System"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\RDAQA_Inspection_System\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\RDAQA_Inspection_System\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "22027"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{20E77B52-98CE-4D2B-9813-88F2224B672C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4247CCC6-7366-4347-A485-65C79342E5EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4247CCC6-7366-4347-A485-65C79342E5EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
